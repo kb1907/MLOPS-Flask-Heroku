@@ -1,3 +1,7 @@
+# MLOPS-CI-CD-Heroku-Github-Actions-Demo
+
+CI/CD demo folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
+
 New environment
 
 ```bash
