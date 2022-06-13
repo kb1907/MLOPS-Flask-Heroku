@@ -35,3 +35,11 @@ oneliner updates for readme
 ```bash
 git add . && git commit -m "update Readme.md"
 ```
+
+pushing changes to new repo
+
+```bash
+git remote add origin git@github.com:kb1907/MLOPS-Flask-Heroku.git
+git branch -M main
+git push -u origin main
+```
